@@ -12,6 +12,7 @@ hyperspace-text using CSS and JavaScript
 
 ## live link 
 
+https://peter-kimanzi.github.io/hyperspace-text/
 
 
 ## screenshots
