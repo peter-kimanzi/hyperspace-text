@@ -7,3 +7,4 @@ hyperspace-text using CSS and JavaScript
 
 * HTML
 * CSS
+* JavaScript
